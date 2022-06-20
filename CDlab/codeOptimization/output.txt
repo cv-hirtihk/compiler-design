@@ -1,0 +1,7 @@
+	#include<stdio.h>
+	int main()
+	{
+		/*Constant Folding*/
+		a = 6.000000
+		b=a+10;
+	}

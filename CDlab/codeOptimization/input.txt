@@ -1,0 +1,7 @@
+	#include<stdio.h>
+	int main()
+	{
+		//Constant
+		a=2+4;
+		b=a+10;
+	}
